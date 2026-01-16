@@ -1,0 +1,482 @@
+[
+  {
+    "id": 0,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM's response is accurate and does not contain any hallucinations. It correctly identifies the color of the fire hydrant cap as yellow, which matches the information provided in the standard human-generated answer. The response is straightforward and informative without adding any false claims or details not present in the image.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 1,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM's response is accurate and does not contain any hallucinations. It correctly identifies that there is no one sitting on the bench based on the image contents. The response is informative and aligns with the standard human-generated answer.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 2,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is informative as it correctly identifies the wooden stool with the vase and red flower. However, it does not provide the necessary context or details to confirm that it is the left stool. The response lacks the specificity required to match the question accurately.\n\nRating: 3, not informative, no hallucination"
+  },
+  {
+    "id": 3,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response is not accurate as it claims there are only two traffic lights in the image, while the standard human-generated answer clearly states there are four traffic lights. This response contains a hallucination as it introduces new information not present in the image.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 4,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response correctly identifies the colors of the traffic signs at the top, middle, and bottom as per the image contents. The response is accurate and does not introduce any false claims about the image. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 5,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response aligns well with the image contents and the question asked. The LMM correctly identifies the time of day as nighttime and mentions the presence of a Ferris wheel and people enjoying themselves. The response also accurately describes the weather as cloudy, which is consistent with the nighttime setting. The LMM's response adds a bit of detail about the lights on the wheel, which is plausible given the nighttime setting. However, the response does not go beyond what is implied by the image and question.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 6,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is somewhat informative but contains a significant hallucination. The response does not contain false claims about the image contents, but it omits important details and adds new ones that are not supported by the image. \n\nThe response correctly mentions the presence of a wet street, cars, pedestrians, and traffic lights. However, it hallucinates by adding a window and suggesting the presence of a building, which are not present in the image. Furthermore, the response incorrectly states that there is a car driving down the wet roadway, which is not evident in the image. \n\nRating: 3, not informative, no hallucination"
+  },
+  {
+    "id": 7,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It correctly interprets the question and provides the correct hourly rate for parking at the meter, which is $4 per hour. The response also calculates the total cost for parking for two hours, which is $8.00. However, the response goes beyond the scope of the question by mentioning parking for two hours, which was not asked for. This is acceptable as the LMM is providing additional relevant information.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 8,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response is accurate and matches the standard human-generated answer. The colors of the cars are correctly identified as blue and black, respectively. There is no hallucination as the response does not introduce any new information not present in the image or the question. The response is also informative as it directly addresses the query without adding any irrelevant details.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 9,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM's response contains a hallucination as it makes a claim about the gender of the person riding the motorcycle, which is not present or implied in the image contents. The image only shows a motorcycle and a tire, and there is no indication of a rider or their gender.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 10,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response contains a hallucination. The image only shows one fire truck, not two. The response falsely claims both trucks have their doors open, which is not supported by the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 11,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM response is not accurate as it states there are three bicycles in the image, while the standard human-generated answer clearly mentions there are four bicycles. The LMM's response contains a hallucination as it does not match the actual content of the image.\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 12,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the position of the yellow boat relative to the white yacht, stating that the yellow boat is positioned next to the white yacht on the water. This description aligns with the standard human-generated answer, which also states that the yellow boat is positioned in front of the white yacht. The LMM's response adds a bit more detail about the boats being on the water and potentially traveling together, but this does not introduce any false claims or hallucinations.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 13,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative as it correctly identifies the weather condition in the image as cloudy. However, the response lacks detail and does not provide any reasoning or analysis beyond what is necessary to answer the question. The response is accurate and does not contain any hallucinations.\n\nRating: 4, somewhat informative, no hallucination"
+  },
+  {
+    "id": 14,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is somewhat informative, but it contains some hallucinations. The response correctly identifies the main elements of the image - a yellow school bus, a bicycle, and two people. However, it introduces new elements not present in the image, such as a man wearing a helmet, a second bicycle, and backpacks. These additions are not supported by the image contents and thus constitute hallucinations.\n\nRating: 3, not informative, no hallucination\n\nThis rating reflects that while the response is somewhat descriptive of the image, it introduces hallucinations and lacks comprehensive detail."
+  },
+  {
+    "id": 15,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM's response contains a hallucination as it incorrectly states that United Airlines owns the airplane displayed in the image, when in fact, the standard human-generated answer clearly indicates that Virgin Airlines owns the airplane. \n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 16,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response is not entirely accurate as it states that the men are wearing only green and red shirts, while the standard human-generated answer specifies that the shirts are green, blue, and red. This response contains a hallucination as it omits the blue shirt mentioned in the standard answer.\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 17,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM response contains a hallucination. The image does not contain any glasses, let alone black ones. The response is not grounded in the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 18,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is not informative as it does not provide any relevant information regarding who in the picture is wearing trousers. The response simply states \"Woman,\" which is not a meaningful answer to the question asked. Furthermore, the response does not contain any hallucinations as it does not introduce any false claims about the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 19,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM response is informative as it correctly identifies the number of people in the image as four. However, it introduces new information not present in the image contents, specifically mentioning a child among the four people. The standard human-generated answer only mentions the total count of people without specifying their ages or roles.\n\nRating: 3, not informative, no hallucination\n\nThe LMM response is not entirely accurate since it adds a detail (the presence of a child) that is not present in the image contents. While it is informative about the number of people, it goes beyond the scope of the given information."
+  },
+  {
+    "id": 20,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is not entirely accurate according to the image contents. The image contains a human face, a human mouth, a human nose, a person, and clothing, but there is no mention of a girl or Spider-Man. The response introduces elements not present in the image, which constitutes hallucination.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 21,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It correctly identifies the setting as outdoor, which aligns with the standard human-generated answer stating the man is sitting on a boat outdoors. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 22,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is somewhat informative but contains some hallucinations. The response correctly identifies the presence of a shop with green trim and mentions people inside the shop. However, it hallucinates by stating that there are \"at least five individuals visible\" and that \"Various items can be seen throughout the store.\" The standard human-generated answer does not provide a count of individuals or describe the items inside the store. The LMM's response adds details not present in the image or the standard answer.\n\nRating: 3, not informative, no hallucination"
+  },
+  {
+    "id": 23,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM's response contains a hallucination as it states that the fastest girl is wearing number 1079, which is not mentioned or implied in the image contents. The correct number according to the standard human-generated answer is 1097.\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 24,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response contains a significant amount of hallucinations. The response lists multiple pairs of brown and white dogs, which do not match the image contents. The standard human-generated answer clearly states that there are two dogs, and the LMM's response does not provide any information about the number of dogs. The response also does not match the question asked, which was about the colors of the dogs from right to left. \n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 25,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM's response contains a significant hallucination. The image does not contain a vicuna or any painting. The response introduces elements not present in the image contents, which is a clear case of hallucination.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 26,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM's response contains a hallucination. The standard human-generated answer clearly states that the cat on the right side of the image opens its mouth. The LMM's response incorrectly identifies the middle cat as the one opening its mouth, which is not supported by the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 27,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response is not accurate as it contradicts the standard human-generated answer. The correct number of zebras in the image is six, as stated in the standard human-generated answer. The LMM's response contains a hallucination as it introduces false information about the number of zebras.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 28,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It correctly identifies the sheep in front based on the perspective given by the camera. However, it does not provide any additional details or analysis beyond what is necessary to answer the question accurately.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 29,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response aligns well with the image contents and the question asked. The response correctly identifies the time of day as nighttime, which is consistent with the standard human-generated answer. The LMM adds a bit of descriptive detail about the lighting, which is plausible given the nighttime setting. However, the response does not provide any specific details about the weather conditions beyond the nighttime setting.\n\nRating: 4, somewhat informative, no hallucination"
+  },
+  {
+    "id": 30,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is somewhat informative but contains some hallucinations. The response correctly mentions the presence of zebras and giraffes, which are present in the image. However, the response incorrectly states that there are four zebras and three giraffes, which is not accurate according to the standard human-generated answer that specifies four zebras and three giraffes. Additionally, the response adds details about the animals' behavior and the scene's overall impression, which are not grounded in the image contents. These additions are hallucinations.\n\nRating: 3, not informative, no hallucination\n\nThe response is not entirely accurate regarding the number of animals and introduces new elements not present in the image, thus failing to provide a detailed and accurate description."
+  },
+  {
+    "id": 31,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is not entirely accurate. While it correctly identifies two giraffes in the image, it omits the presence of a rhinoceros and a wild horse, which are also present according to the standard human-generated answer. This omission constitutes a hallucination since the LMM response contradicts the information given in the standard human-generated answer.\n\nRating: 2, very informative, with hallucination\n\nThe response is very informative as it correctly identifies the number of giraffes. However, it hallucinates by omitting the presence of other animals mentioned in the standard human-generated answer."
+  },
+  {
+    "id": 32,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response contains a hallucination as it contradicts the standard human-generated answer. The response states that the kiwi in the front is freshly cut, while the standard answer clearly indicates that the kiwi in the front is dried. The LMM's response introduces new information not present in the image or the given question.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 33,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM response contains a hallucination. The image only shows a bread slice and no jam. The response falsely claims that there is jam on the bread and that it is strawberry jam. \n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 34,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response contains some inaccuracies and hallucinations. The response states there are four ripe tomatoes, but the image only shows three tomatoes. Furthermore, the LMM introduces new elements like \"yellow tomatoes seem to be smaller than the red ones\" which are not mentioned in the image contents. These additions are not supported by the given image.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 35,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response is informative as it correctly identifies the presence of oysters in the photo. However, it does not provide an accurate count of the oysters, which is requested in the question. The response acknowledges the presence of oysters but does not fulfill the requirement of giving the exact number, leading to a slight lack of precision. \n\nRating: 3, not informative, no hallucination\n\nThe response is not entirely precise in fulfilling the request for the exact number of oysters, hence it is rated as not fully informative. However, it does not contain any hallucinations as it does not introduce any false claims or information not present in the image."
+  },
+  {
+    "id": 36,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response contains a hallucination as it contradicts the image contents and the standard human-generated answer. The standard answer clearly states that the bowl with broccoli is next to the bowl of meatballs, while the LMM response claims the opposite - that the bowl with broccoli is on top of the bowl with meatballs. This is a false claim about the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 37,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response aligns well with the image contents and the question asked. The LMM correctly identifies the outdoor setting and mentions the presence of grills, which matches the description in the standard human-generated answer. The response also accurately describes the scene of people gathered around food being cooked, which is consistent with the image and the question. The LMM's response adds some descriptive details without making any false claims.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 38,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the image contents without adding any false claims. The response mentions the presence of three people, two girls cooking, and a third person observing. It correctly identifies the kitchen setting and the presence of various kitchen utensils and vegetables. The response is detailed and aligns well with the standard human-generated answer.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 39,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is not informative as it does not provide any factual information about the image contents. The question asks for the price of each jerk chicken dumpling, but the response does not address this. Instead, it provides a price figure (\u00a32) without any basis in the image or the given question. This response contains a hallucination as it introduces new information not present in the image or the question.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 40,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response contains hallucinations as it incorrectly states that the parachutes are blue and yellow, while the standard human-generated answer clearly mentions that the parachutes are light green, orange, and blue. The response omits the color light green and introduces a new color yellow, which is not present in the image.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 41,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It accurately describes the image contents without adding any false claims. The response correctly identifies the absence of a person playing tennis and instead focuses on the tennis racket and ball. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 42,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the two surfboards in the photo, noting their colors and the differences in their designs. The response is detailed and accurate without adding any false information.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 43,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response is not accurate as there are actually three horses in the image, not two. The response contains a hallucination as it contradicts the number of horses present in the image.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 44,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is accurate according to the image contents. The standard human-generated answer mentions both red and orange, but the LMM response specifies orange, which is correct based on the image. There is no hallucination as the response does not introduce any new information not present in the image.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 45,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response correctly identifies the setting as an indoor location, specifically an ice rink, which aligns with the standard human-generated answer. The response is precise and does not introduce any false claims about the image contents.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 46,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It accurately describes the activity taking place in the image, mentioning two men playing soccer and the competition between them. The response is concise yet detailed enough to convey the essence of the scene without adding any false information.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 47,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response correctly identifies the tournament as the Indian Wells Masters Tournament, which is consistent with the information provided in the image and the standard human-generated answer. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 48,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response is accurate and does not contain any hallucinations. It correctly identifies the microwave as silver, which matches the standard human-generated answer. The response is also very informative and concise, staying true to the factual information provided in the image contents and question.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 49,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM response contains a hallucination. The standard human-generated answer clearly states that no one is eating in the kitchen. The LMM response falsely claims that four people are eating in the kitchen, which is not supported by the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 50,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response correctly identifies the number of sets and types of utensils present in the image. However, the response does not match the standard human-generated answer, which specifies the exact items and their colors. The LMM response adds a new detail about the arrangement and design variety, which is not present in the image or the standard answer. \n\nRating: 3, not informative, no hallucination\n\nThe response is not entirely accurate according to the standard human-generated answer, but it does not introduce any false claims or hallucinations."
+  },
+  {
+    "id": 51,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response contains a hallucination as it states there are three forks visible in the image, while the standard human-generated answer clearly mentions there are only two forks. The LMM's response introduces new information not present in the image contents.\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 52,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is not entirely accurate as it omits the mug and only mentions the spoon and coffee cup. The standard human-generated answer correctly identifies all three objects - a lid, a spoon, and a coffee cup. The LMM response lacks the mug, which is present in the image contents. \n\nRating: 1, very informative, with hallucination"
+  },
+  {
+    "id": 53,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is accurate and informative, matching the standard human-generated answer. The response does not contain any false claims or hallucinations. The LMM correctly identifies that the photo is taken during the day, which aligns with the given question and the standard answer.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 54,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the image contents, including the layout of the chairs and the items on the table. The response is detailed and accurate without adding any false claims or hallucinations.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 55,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response correctly identifies the knobs on the stove as the controls needed to operate the stove. However, the response does not provide the exact number of knobs or their positions as mentioned in the standard human-generated answer. \n\nRating: 4, somewhat informative, no hallucination"
+  },
+  {
+    "id": 56,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response is not entirely accurate as it states the umbrella is \"rainbow colored,\" which is too broad and does not specify the colors mentioned in the standard human-generated answer. The standard answer mentions specific colors like purple, yellow, teal, and orange, while the LMM response only says it is \"rainbow colored.\" This response contains a hallucination as it introduces a new color (rainbow) that was not present in the original image.\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 57,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM response is informative as it describes the gloves and the hands wearing them accurately based on the image contents. However, the response contains a hallucination as it mentions the hands are human hands, which is not supported by the image contents. The image only shows gloves and does not provide any information about the hands or their nature (human or otherwise).\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 58,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It accurately describes the two different views of the backpack as presented in the image. The response correctly identifies the first view as showing the inside of the bag with its contents visible, and the second view as showing the outside of the bag with the contents hidden. The LMM's description is precise and aligns well with the image contents and the standard human-generated answer.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 59,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response contains a hallucination as it states there are six black hats in the image, while the standard human-generated answer clearly indicates there are five black hats. The LMM's response introduces new information not present in the image or implied in the question.\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 60,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the placement of the two watches as stated in the standard human-generated answer. The LMM provides additional details about the relative sizes and orientations of the watches, which is consistent with the image and the question asked. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 61,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response correctly identifies the setting as indoor, specifically on a carpeted floor, which aligns with the standard human-generated answer. The response is straightforward and accurate without adding any false claims or hallucinations.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 62,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the main elements of the image - the couple holding hands, the rings on their fingers, and the overall romantic setting. The response is concise yet detailed enough to convey the essence of the image without adding any false claims.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 63,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes what can be seen in the reflection from the sunglasses, matching the description given in the standard human-generated answer. The LMM response adds a bit more detail about the reflections being blurry, which aligns with the vagueness mentioned in the standard answer. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 64,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response is accurate and does not contain any hallucinations. The response matches the information provided in the standard human-generated answer, which states the color of the laptop as silver. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 65,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM's response contains a hallucination as it incorrectly states that an Apple mouse is playing on the monitor. The image only depicts a computer mouse, not an Apple mouse, and there is no indication of anything being played on a monitor.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 66,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is not informative as it does not provide a comparison of the sizes of the devices mentioned in the image. The response \"Smartphone\" is not relevant to the question asked and does not compare the sizes of the iPod touch and iPod nano. Furthermore, the response introduces a new device (smartphone), which is not present in the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 67,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response contains a hallucination. The image only shows one mobile phone, while the LMM's response claims there are two mobile phones. \n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 68,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM's response contains a hallucination. The image content clearly depicts a computer mouse, but it does not show any connection to a computer. The standard human-generated answer correctly states that the mouse is not connected to a computer, which aligns with the image content. The LMM's response falsely claims that the mouse is plugged into a computer, which is not supported by the image.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 69,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is somewhat informative as it correctly identifies the setting as outdoor and mentions mountains. However, it does not provide the surrounding plants mentioned in the standard human-generated answer. This omission means the response is not fully accurate regarding the image contents.\n\nRating: 3, not informative, no hallucination"
+  },
+  {
+    "id": 70,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is somewhat informative but contains a hallucination. The response does provide a detailed description of the image, including the presence of a person, a television, and the positioning of the man. However, the response introduces new elements not present in the original image, such as bushes and trees in the background, glasses and a mustache on the man, and the man being positioned towards the center of the scene. These additions are not supported by the image contents.\n\nRating: 3, not informative, no hallucination"
+  },
+  {
+    "id": 71,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It correctly identifies the key feature of the image - the blue laptop keyboard. However, it does not provide a definitive answer to the question asked, which is whether the laptop is a Macbook or a Windows laptop. The response acknowledges the possibility of both brands producing similar-looking laptops, which is accurate. But it does not state that it cannot determine the brand or operating system, which is what the question asks for. \n\nRating: 3, not informative, no hallucination"
+  },
+  {
+    "id": 72,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response contains hallucinations as it contradicts the image contents. The image clearly shows pillows of different colors, while the LMM response states that both pillows are blue. This is a false claim about the image contents.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 73,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM's response is not accurate according to the image contents. The image contains a sofa bed, studio couch, and bed, but no chair. The response contains a hallucination as it introduces information not present in the image.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 74,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is not entirely accurate. While it correctly identifies the pillow on the right side of the bed, it does not specify that this pillow is closer to the camera. The pillow on the left side of the bed is also part of the image and could potentially be closer to the camera. The response lacks specificity regarding which pillow is closer.\n\nRating: 2, very informative, with hallucination\n\nThe response is very informative in identifying the correct pillow, but it hallucinates by not specifying which pillow is closer to the camera."
+  },
+  {
+    "id": 75,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM response is accurate and does not contain any hallucinations. It correctly identifies the number of chairs in the image as two, which matches the standard human-generated answer. The response is straightforward and informative without adding any false information or details not present in the image.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 76,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. It correctly identifies the red pillow as being in front of the other pillows, which matches the standard human-generated answer. The response is straightforward and accurate without adding any false claims or details not present in the image.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 77,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response acknowledges the limitations of determining the exact weather conditions from the image and provides plausible inferences based on the observed elements. The response does not make any false claims about the image contents.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 78,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the image contents without adding any false information. The response focuses on the main elements of the image - the two twin beds and the pillows on them - and provides a detailed description of their arrangement and appearance. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 79,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is not entirely accurate. The standard human-generated answer states that the toilet paper has not been used, as it was folded into a decorative shape. The LMM response contradicts this by stating that the toilet paper has been used up. This is a false claim and constitutes a hallucination.\n\nRating: 2, very informative, with hallucination\n\nThe LMM response is informative in that it provides a conclusion based on the image contents. However, it contains a hallucination due to the contradiction with the standard human-generated answer."
+  },
+  {
+    "id": 80,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM response contains a hallucination as it incorrectly states the color of the books as red and yellow, whereas the standard human-generated answer clearly mentions the books are red and white. \n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 81,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM response contains a hallucination as it mentions a blue ceramic bowl or cup, which is not present in the image contents. The image only shows a tableware set including a bowl, vase, and flowerpot, but no blue ceramic bowl or cup.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 82,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is informative as it correctly identifies the position of the larger vase. However, it introduces a new detail (the blue surface) that is not mentioned in the original image contents, the question, or the standard human-generated answer. This new detail is not grounded in the given information and thus constitutes a hallucination.\n\nRating: 2, very informative, with hallucination\n\nThe response is very informative as it correctly identifies the position of the larger vase. However, it hallucinates by mentioning the blue surface, which is not part of the original description."
+  },
+  {
+    "id": 83,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM's response is accurate and does not contain any hallucinations. It correctly identifies the number of teddy bears on the stairs as stated in the standard human-generated answer. The response is straightforward and informative without adding any false information.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 84,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response is accurate and does not contain any hallucinations. It correctly identifies the colors of the flowers as described in the standard human-generated answer. The response is straightforward and informative without adding any false information.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 85,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response acknowledges the limitations of determining the exact weather conditions from the given image contents and instead speculates on the inferred weather based on the presence of decorations for a party. This response is reasonable and does not introduce any false claims about the image contents.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 86,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the main elements of the image, including the baby in the crib, the stuffed animals, and the overall cozy atmosphere. The response is concise yet detailed enough to convey the key aspects of the image without adding any false information.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 87,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response is accurate and does not contain any hallucinations. The response matches the name of the book provided in the standard human-generated answer. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 88,
+    "question_type": "attribute",
+    "response": "Explanation:\nThe LMM's response contains a hallucination as it contradicts the standard human-generated answer. The standard answer clearly states that the pot is silver with red cherries inside, while the LMM's response claims the pot is red. The pot itself is not red; it is silver, as mentioned in the standard answer.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 89,
+    "question_type": "adversarial",
+    "response": "Explanation:\nThe LMM response is informative as it correctly identifies that the sink appears empty with no visible items or objects being cleaned. However, it introduces a hallucination by mentioning bottles around the sink area, which are not present in the image contents. The standard human-generated answer states that nothing is being washed in the sink, and the LMM response aligns with this statement without hallucinations. \n\nRating: 4, somewhat informative, no hallucination"
+  },
+  {
+    "id": 90,
+    "question_type": "comparison",
+    "response": "Explanation:\nThe LMM response is not entirely accurate. The standard human-generated answer clearly states that the right washing machine with the top load design is taller. The LMM response contradicts this by stating the opposite. Therefore, the response contains a hallucination.\n\nRating: 2, very informative, with hallucination"
+  },
+  {
+    "id": 91,
+    "question_type": "counting",
+    "response": "Explanation:\nThe LMM response contains a hallucination as it states there are two cooked chickens in the image, while the standard human-generated answer clearly indicates there is only one cooked chicken. The LMM's response introduces new information not present in the image.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 92,
+    "question_type": "relation",
+    "response": "Explanation:\nThe LMM response contains a hallucination as it states that a pair of scissors is placed on top of the roll of tissue paper, which is not present in the image contents. The image only shows a toilet paper roll, and no scissors are visible.\n\nRating: 0, not informative, with hallucination"
+  },
+  {
+    "id": 93,
+    "question_type": "environment",
+    "response": "Explanation:\nThe LMM response is accurate and does not contain any false claims about the image contents. The response simply reiterates the standard human-generated answer without adding any new information or making any claims beyond what is already stated. The response is informative and does not hallucinate.\n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 94,
+    "question_type": "holistic",
+    "response": "Explanation:\nThe LMM response is informative and does not contain any hallucinations. The response accurately describes the image contents without adding any false claims. The LMM correctly identifies the main subject as dumplings or spring rolls, and mentions the pan and the steaming condition of the food. \n\nRating: 5, very informative, no hallucination"
+  },
+  {
+    "id": 95,
+    "question_type": "other",
+    "response": "Explanation:\nThe LMM response contains a significant hallucination. The image does not show a mirror; instead, it depicts bathroom accessories, a washing machine, drawers, furniture, a bathroom cabinet, cabinetry, a sink, and plumbing fixtures. The response falsely claims that the mirror shows a sink area with faucets and cabinets, and mentions dryers in the reflection, which are not present in the image. \n\nRating: 0, not informative, with hallucination"
+  }
+]
